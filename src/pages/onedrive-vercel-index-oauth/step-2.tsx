@@ -108,8 +108,8 @@ export default function OAuthStep2() {
 
             <p>
               {authCode
-                ? t('✅ You can now proceed onto the next step: requesting your access token and refresh token.')
-                : t('❌ No valid code extracted.')}
+                ? t('You can now proceed onto the next step: requesting your access token and refresh token.')
+                : t('No valid code extracted.')}
             </p>
 
             <div className="mb-2 mt-6 text-right">
