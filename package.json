@@ -54,8 +54,7 @@
     "remark-math": "^5.1.1",
     "swr": "^2.0.3",
     "use-clipboard-copy": "^0.2.0",
-    "use-constant": "^1.1.1",
-    "bcrypt": "^5.1.1"
+    "use-constant": "^1.1.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.13",
